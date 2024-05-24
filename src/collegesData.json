@@ -1,0 +1,203 @@
+
+ [
+    {
+        "id": 1,
+        "name": "Indian Institute of Technology Delhi",
+        "location": "New Delhi, Delhi",
+        "rank": "4",
+        "fees": 140000,
+        "collegeDuniyaRating": 4.7,
+        "userReview": 4.6,
+        "featured": true
+    },
+    {
+        "id": 2,
+        "name": "Indian Institute of Technology Bombay",
+        "location": "Mumbai, Maharastra",
+        "rank": "1",
+        "fees": 120000,
+        "collegeDuniyaRating": 4.8,
+        "userReview": 4.8,
+        "featured": true
+    },
+    {
+        "id": 3,
+        "name": "University of Delhi",
+        "location": "New Delhi, Delhi",
+        "rank": "10",
+        "fees": 200000,
+        "collegeDuniyaRating": 4.2,
+        "userReview": 4.5,
+        "featured": false
+    },
+    {
+        "id": 4,
+        "name": "Gautam buddha university",
+        "location": "Greater Noida, Uttar Pradesh",
+        "rank": "69",
+        "fees": 280000,
+        "collegeDuniyaRating": 3.8,
+        "userReview": 4.2,
+        "featured": false
+    },
+    {
+        "id": 5,
+        "name": "Amity University",
+        "location": "Noida , Uttar Pradesh",
+        "rank": "25",
+        "fees": 1400000,
+        "collegeDuniyaRating": 4.7,
+        "userReview": 4.3,
+        "featured": false
+    },
+    {
+        "id": 6,
+        "name": "Vellore Institute of Technology",
+        "location": "Vellore, tamil Nadu",
+        "rank": "9",
+        "fees": 1200000,
+        "collegeDuniyaRating": 4.8,
+        "userReview": 4.6,
+        "featured": true
+    },
+    {
+        "id": 7,
+        "name": "Thapar institute of Technology",
+        "location": "Mohali, Punjab",
+        "rank": "22",
+        "fees": 200000,
+        "collegeDuniyaRating": 4.7,
+        "userReview": 4.6,
+        "featured": false
+    },
+    {
+        "id": 8,
+        "name": "Banaras Hindu University",
+        "location": "Varanasi, Uttar Pradesh",
+        "rank": "6",
+        "fees": 40000,
+        "collegeDuniyaRating": 4.9,
+        "userReview": 4.6,
+        "featured": true
+    },
+    {
+        "id": 9,
+        "name": "Manipal University",
+        "location": "Manipal, Karnataka",
+        "rank": "14",
+        "fees": 220000,
+        "collegeDuniyaRating": 4.6,
+        "userReview": 4.8,
+        "featured": false
+    },
+    {
+        "id": 10,
+        "name": "Indian Institute of Technology Jammu",
+        "location": "Jammu, Jammu & Kashmir",
+        "rank": "16",
+        "fees": 52000,
+        "collegeDuniyaRating": 4.6,
+        "userReview": 4.7,
+        "featured": false
+    },
+    {
+        "id": 11,
+        "name": "Delhi technical University",
+        "location": "New Delhi, Delhi",
+        "rank": "21",
+        "fees": 25000,
+        "collegeDuniyaRating": 4.7,
+        "userReview": 4.6,
+        "featured": true
+    },
+    {
+        "id": 12,
+        "name": "King george medical collage",
+        "location": "Lucknow, Uttar Pradesh",
+        "rank": "8",
+        "fees": 28000,
+        "collegeDuniyaRating": 4.8,
+        "userReview": 4.8,
+        "featured": true
+    },
+    {
+        "id": 13,
+        "name": "Madam mohan malviya",
+        "location": "Gorakhpur, Uttar Pradesh",
+        "rank": "60",
+        "fees": 80000,
+        "collegeDuniyaRating": 4.1,
+        "userReview": 4.6,
+        "featured": false
+    },
+    {
+        "id": 14,
+        "name": "Sharda University",
+        "location": "Noida, Uttar Pradesh",
+        "rank": "54",
+        "fees": 300000,
+        "collegeDuniyaRating": 3.7,
+        "userReview": 3.9,
+        "featured": false
+    },
+    {
+        "id": 15,
+        "name": "Galgotia University",
+        "location": "Greater Noida, Uttar Pradesh",
+        "rank": "99",
+        "fees": 350000,
+        "collegeDuniyaRating": 3.5,
+        "userReview": 3.4,
+        "featured": false
+    },
+    {
+        "id": 16,
+        "name": "Bennet University",
+        "location": "Greater Noida, Uttar Pradesh",
+        "rank": "109",
+        "fees": 370000,
+        "collegeDuniyaRating": 3.9,
+        "userReview": 3.4,
+        "featured": false
+    },
+    {
+        "id": 17,
+        "name": "NIT Delhi",
+        "location": "New Delhi, Delhi",
+        "rank": "48",
+        "fees": 50000,
+        "collegeDuniyaRating": 4.5,
+        "userReview": 4.4,
+        "featured": false
+    },
+    {
+        "id": 18,
+        "name": "Lovely Proffesional University",
+        "location": "Mohali, Punjab",
+        "rank": "63",
+        "fees": 710000,
+        "collegeDuniyaRating": 3.5,
+        "userReview": 3.4,
+        "featured": false
+    },
+    {
+        "id": 19,
+        "name": "NIT kurukshetra",
+        "location": "kurukshetra, Haryana",
+        "rank": "16",
+        "fees": 70000,
+        "collegeDuniyaRating": 4.3,
+        "userReview": 4.4,
+        "featured": true
+    },
+    {
+        "id": 20,
+        "name": "Lucknow University",
+        "location": "Lucknow, Uttar Pradesh",
+        "rank": "88",
+        "fees": 30000,
+        "collegeDuniyaRating": 3.5,
+        "userReview": 3.4,
+        "featured": false
+    }
+]
