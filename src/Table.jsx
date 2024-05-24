@@ -32,7 +32,7 @@ const Table = () => {
       }
       return 0;
     });
-    setCurrentColleges(sortedColleges.slice(0, 10));
+    setCurrentColleges(sortedColleges.slice(0, 20));
   }
 
   // for fee
